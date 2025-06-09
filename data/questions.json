@@ -1,0 +1,17 @@
+[
+    {
+        "question": "Quel type de roche se forme à partir du magma refroidi ?",
+        "reponses": ["Roche sédimentaire", "Roche ignée", "Roche métamorphique"],
+        "reponse_correcte": "Roche ignée"
+    },
+    {
+        "question": "Le granite est un exemple de quelle roche ?",
+        "reponses": ["Roche sédimentaire", "Roche ignée", "Roche métamorphique"],
+        "reponse_correcte": "Roche ignée"
+    },
+    {
+        "question": "Quelle roche est souvent associée aux fossiles ?",
+        "reponses": ["Basalte", "Calcaire", "Marbre"],
+        "reponse_correcte": "Calcaire"
+    }
+]

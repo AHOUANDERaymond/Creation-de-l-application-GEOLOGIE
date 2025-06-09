@@ -1,0 +1,17 @@
+[
+    {
+        "nom": "Granite",
+        "mots_cles": ["granite", "gris", "cristaux", "dur"],
+        "description": "Roche ignée à gros grains, souvent grise ou rose."
+    },
+    {
+        "nom": "Basalte",
+        "mots_cles": ["basalte", "noir", "volcanique", "lisse"],
+        "description": "Roche volcanique sombre et fine."
+    },
+    {
+        "nom": "Calcaire",
+        "mots_cles": ["calcaire", "blanc", "sédimentaire", "fossiles"],
+        "description": "Roche sédimentaire souvent blanche, contenant des fossiles."
+    }
+]
