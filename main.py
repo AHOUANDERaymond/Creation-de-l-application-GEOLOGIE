@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import ttk
-# from PIL import Image, ImageTk  # Nouveaux imports
+from PIL import Image, ImageTk  # Nouveaux imports
 from chatbot import ouvrir_chatbot
 from quiz import ouvrir_quiz
 from identification import ouvrir_identification
